@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="C#" title="C#" src="/img/csharp.png" width="70">
+<img align="left" alt="C#" title="C#" src="/img/csharp.png" width="50" height="36">
 <img align="left" alt=".NET Core" title=".NET Core" src="/img/dotNet.png" width="32">
 <img align="left" alt="Kafka" title="Kafka" src="/img/kafka.png" width="28">
 <img align="left" alt="RabbitMQ" title="RabbitMQ" src="/img/rabbitMQ.png" width="50">
@@ -30,7 +30,7 @@
 <img align="left" alt="Typescript" title="Typescript" src="/img/typescript.webp" width="30">
 <br />
 <br />
-<img align="left" alt="Jenkins" title="Jenkins" src="/img/jenkins.png" width="30">
+<img align="left" alt="Jenkins" title="Jenkins" src="/img/jenkins.png" width="35" height="50">
 <img align="left" alt="Docker" title="Docker" src="/img/docker.png" width="48">
 <img align="left" alt="Kubernetes" title="Kubernetes" src="/img/kubernetes.png" width="62">
 <img align="left" alt="AWS" title="AWS" src="/img/aws.png" width="52">
