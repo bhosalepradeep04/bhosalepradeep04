@@ -1,5 +1,7 @@
 ### Hello World, I'm Pradeep - aka Backend Developer 👋
 
+<img align="right" alt="GIF" src="/programmer.gif?raw=true" width="500" height="320">
+
 - 🔭 I’m currently working on Distributed and Event-Driven Architectures.
 - 🌱 I’m currently learning German language
 - 👯 I’m looking to collaborate with european product owners and developers
