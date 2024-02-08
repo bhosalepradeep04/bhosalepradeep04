@@ -7,4 +7,11 @@
 - 💬 Ask me about ... Coding and Soccer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pradeep-bhosale-92b3b299/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have won quite a few medals/trophies in different sports like Football(Soccer), Cricket, Marathon etc.
+- ⚡ Fun fact: I have won quite a few medals/trophies in different sports like Football/Soccer, Cricket, Marathon etc.
+
+
+### Let's connect and share thoughts:
+
+
+### Languages and Tools:
+
