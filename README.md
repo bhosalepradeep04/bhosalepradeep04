@@ -3,9 +3,8 @@
 <img align="right" alt="GIF" src="/img/programmer.gif?raw=true" width="400" height="320">
 
 - 🔭 I’m currently working on distributed systems and event-driven architectures.
-- 🌱 I’m currently learning German language
-- 👯 I’m looking to collaborate with european product owners and developers
-- 🤔 I’m looking for help with learning german quickly
+- 🌱 I’m currently learning German language.
+- 👯 I’m looking to collaborate with european product owners and developers to understand their work culture.
 - 💬 Ask me about ... Coding and Soccer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have won quite a few medals/trophies in different sports like Football/Soccer, Cricket, Marathon etc.
