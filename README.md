@@ -35,4 +35,4 @@
 <img align="left" alt="Kubernetes" title="Kubernetes" src="/img/kubernetes.png" width="62">
 <img align="left" alt="AWS" title="AWS" src="/img/aws.png" width="52">
 <img align="left" alt="Windows Azure" title="Windows Azure" src="/img/azure.png" width="54">
-<b /r>
+<br />
